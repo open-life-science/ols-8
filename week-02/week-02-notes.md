@@ -1,28 +1,22 @@
 
-# Semaine 02 - Bienvenue à OLS-7 !
+# Week 02 - Welcome to Open Seeds OLS-8!
 
-**Date** : 7 mars 2023
+**Date** : September 2023
 
-**Time/Temps** : 10:00 - 11:30 UTC (voir dans votre fuseau horaire : [https://www.timeanddate.com/worldclock/meeting.html](https://www.timeanddate.com/worldclock/meeting.html)
+**Time/Temps** : 
 
 **Duration/Durée** : 90 minutes
 
-**Call hosts/Piste d'appel :** Bérénice, Emmy, Malvika
+**Call hosts/Piste d'appel :** 
 
-**Programme** : [https://openlifesci.org/ols-7/schedule/#week-02](https://openlifesci.org/ols-7/schedule/#week-02)
-
-
-**Join the Zoom call of Cohort 7/Rejoignez la salle de cohorte OLS-7 :**  [https://us02web.zoom.us/j/83789414238?pwd=TmxhTnYxcjdEdmFFUEY2R253V3lRUT09](https://us02web.zoom.us/j/83789414238?pwd=TmxhTnYxcjdEdmFFUEY2R253V3lRUT09)
-
-   * Meeting ID/ID de réunion : 837 8941 4238
-   * **Passcode/Code d'accès : 106261**
+**Programme** : 
 
 
-**Are you an OLS-7 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-7 playlist): **[https://www.youtube.com/c/OpenLifeSci/playlists](**https://www.youtube.com/c/OpenLifeSci/playlists**)
+**Join the Zoom call of Cohort 7/Rejoignez la salle de cohorte OLS-7 :**  
 
 
+**Are you an OLS-8 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-8 playlist): **[https://www.youtube.com/c/OpenLifeSci/playlists](**https://www.youtube.com/c/OpenLifeSci/playlists**)
 
-**Êtes-vous un participant OLS-7 mais ne pouvez pas participer à cet appel ? L'enregistrement de cet appel sera mis à jour sur YouTube (playlist OLS-7) : **[https://www.youtube.com/c/OpenLifeSci/playlists](**https://www.youtube.com/c/OpenLifeSci/playlists**)
 
 
 
@@ -35,16 +29,6 @@
        * W for written reflection-based exercise in the main room
        * S for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice
        * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
-
-
-#### Rejoignez l'appel
-
-   * Veuillez noter que cet appel sera enregistré
-   * La vidéo sera disponible sur la chaîne YouTube ( [https://www.youtube.com/c/OpenLifeSci)](https://www.youtube.com/c/OpenLifeSci)) dans les prochains jours
-   * Allumez votre webcam si cela ne vous dérange pas de partager votre visage (ou éteignez-la si vous le faites !)
-   * Veuillez modifier votre nom Zoom (cliquez sur les trois points en haut à droite de votre vidéo) et ajoutez l'une des lettres suivantes devant votre nom :
-       * W pour exercice de réflexion écrite en salle principale
-       * S pour Spoken Discussion Breakout Room Cela nous aidera à vous affecter à la salle de discussion avec le format de votre choix
 
 
 #### During our first cohort call, we will:
@@ -70,43 +54,15 @@
 ## 🌍 Roll call
 
    * Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
-   * Bérénice / OLS / @bebatut / 😱
-   * Emmy / OLS! / @emmy\_ft / 
-   * Malvika / OLS / malvikasharan / 🐞
-   * Melissa / 
-   * Ismael / Kairoi / @hermeneuticist / 🤪
-   * Nicky Nicolson / Kew Gardens @nickynicolson@mastodon.social @nickynicolson 
-   * Angelica Maineri/ ODISSEI / @AngelicaMaineri @AngelicaMaineri@akademienl.social / 
-   * julien colomb, mentor, @jcolomb@nerdculture.de
-   * Deborah Udoh, mentee, @DeborahUdoh3
-   * NDEGALA NHANA HYLARY/From invisible to citizens/@hylary\_emma12/
-   * Laura Becerra/ LaConGA/ @lauramb8909
-   * Carolina Giraldo/mentee, carolinav.giraldo@uc.cl/ W
-   * Anna Biller/momenTUM/[https://twitter.com/annambiller/bad](https://twitter.com/annambiller/bad) internet connection :(
-   * Saule Anafinova
-   * Sara Acevedo / Product (R package or Shiny app) for soil science data processing /mentee, twitter: saryace / 
-   * Angelo Varlotta / mentee / @varl42
-   * Stephane
-   * Nathanael
-   * Doaa
-   * Gabriela Rufino / closer to the sky
-   * Beatriz Serrano-Solano / Euro-BioImaging Scientific Ambassadors Program / @beatrizserrano 
-   * Bisola, mentee/ twitter @\_cheeps/ 🥳💃🏾
+   * 
+   *
 
 
 ## Icebreaker question
 
 *Share a song that expresses your personality*
 
-   * we are  the robots/ kraftwerk :)
-   * Malvika: I want to break free (Queen!) -- I was literally singing this song this morning.
-   *  "the show must go on" -- similar mood as Malvika apparently
-   * "I did it my way" (Sinatra)
-   * Debs: Roar by Katy Perry
-   * Brave by Sara Bareilles -- motivation song!
-
-
-
+ 
 
 ## 🗣️ Welcome!
 
@@ -114,7 +70,7 @@
 
 
 
-Welcome to Open Life Science! The Open Life Science program helps early-stage researchers and potential academic leaders in becoming Open Science ambassadors.
+Welcome to Open Seeds! The Open Seeds OLS-8 program helps early-stage researchers and potential academic leaders in becoming Open Science ambassadors.
 
 
 
@@ -152,16 +108,14 @@ Breakout room: Speaking and Writing:
 
 ## 🖥 Welcome to OLS!
 
-[Emmy] (⏰ 10 minutes) 30
-
-   * Slides: [https://docs.google.com/presentation/d/16M5R6YhvAeK0-old\_hV9RjrshdA0sdJPgZBRO\_MyRLA/edit?usp=sharing](https://docs.google.com/presentation/d/16M5R6YhvAeK0-old\_hV9RjrshdA0sdJPgZBRO\_MyRLA/edit?usp=sharing)
+ (⏰ 10 minutes) 30
 
 
 ## 👥 Open Leadership and Open Science 👥 
 
 Break-out room (10 minutes, ~3 ppl per room)
 
-[Malvika introducing, Ismael creating rooms] (⏰ 15 minutes) 45
+(⏰ 15 minutes) 45
 
 
 
@@ -186,27 +140,16 @@ This is our first group break-out room, so we will spend 1-2 minutes introducing
 
 Written 1: 
 
-   * Gabriela, Carolina, Dooa, Malvika
-       *  Each of us got into OLS because of a colleague/friend
-
+ 
 
 Written 2: 
-
-   * NAMES
-       *  Angelo, Sara, Deborah, Bisola
-   * Any  insights/thoughts/comments to share from your breakout room?
-       * We are all new to open science and want to learn these principles
 
 
 
 
 ## 🖥 Introducing Open Canvas
 
-[Bérénice] (⏰ 10 minutes) 55
-
-   * Slides: [https://docs.google.com/presentation/d/1gmVQqDxxbGMqBqVbRRoeBx2nDSMkfUU2g3wGw82-mqs/edit?usp=sharing](https://docs.google.com/presentation/d/1gmVQqDxxbGMqBqVbRRoeBx2nDSMkfUU2g3wGw82-mqs/edit?usp=sharing)
-   * *Presentation only,* *assignment* *left as an exercise for the project lead*
-       * Use this document for example and template (please make a copy of it into your own Google Drive): [https://docs.google.com/presentation/d/1qofRi2eXqpFiQUhD0c2pDlcH5CwxaQ\_-IGo9d2BxsXA/edit?usp=share\_link](https://docs.google.com/presentation/d/1qofRi2eXqpFiQUhD0c2pDlcH5CwxaQ\_-IGo9d2BxsXA/edit?usp=share\_link)
+(⏰ 10 minutes) 55
 
 
 ## 👥 Share your project mission/vision 👥 
@@ -229,19 +172,16 @@ Break-out room (5 minutes, ~3 ppl per room)
 
 ## 🖥 Introducing Road Mapping
 
-[Bérénice] (⏰ 10 minutes) 80
+(⏰ 10 minutes) 80
 
-   * Slides: Road Mapping : [https://docs.google.com/presentation/d/1xpVo-66m0mWs8\_ZFGuHQwPBTT-vkfBRXwr6WJEb5QRw/edit?usp=sharing](https://docs.google.com/presentation/d/1xpVo-66m0mWs8\_ZFGuHQwPBTT-vkfBRXwr6WJEb5QRw/edit?usp=sharing)
-   * *Presentation only,* *assignment* *given as an exercise for the project lead*
 
 
 ## 🗣️ Closing and Assignments
 
-[Emmy]
 
 #### Reminders:
 
-   * Make sure you are added in the OLS-7 mailing list, Google calendar and Slack channel (#ols-7-cohort)
+   * Make sure you are added in the OLS-8 mailing list, Google calendar and Slack channel (#ols-8-cohort)
    * Micro-grants: [https://github.com/open-life-science/policies-procedures-and-docs/blob/main/cohort-procedures-and-templates/microgrants.md](https://github.com/open-life-science/policies-procedures-and-docs/blob/main/cohort-procedures-and-templates/microgrants.md)
    * Discuss on Slack after the call, for example:
 
@@ -272,15 +212,7 @@ What should we name our Cohort?
    1. 🛣 Start your Roadmap and comment on your issue with your draft Roadmap: [https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
 
 
-## Next calls
 
-Staggered calls - one good for eu/india/east asia, one good for eu/americas
-
-   * Week 3
-       * Mentee-Mentor call!
-       * Introduction call (same as this one but for the other half of the world!)
-   * Week 4 - Cohort call: Tooling and road mapping for Open projects
-   * Week 5 - Optional - Intro to GitHub
 
 
 ## Q\&A for after the call
@@ -319,4 +251,4 @@ What surprised you?
 
 Référence : Mozilla Open leadership Framework, Open Life Science
 
-Licence : CC BY 4.0, Open Life Science (OLS-7), 2023
+Licence : CC BY 4.0, Open Life Science (OLS-8), 2023
