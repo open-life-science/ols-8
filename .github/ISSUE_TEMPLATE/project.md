@@ -1,5 +1,5 @@
 ---
-name: Issue for project in OLS-7
+name: Issue for project in OLS-8
 about: If you applied as a team, please coordinate with your teammates and have one person create this issue.
 ---
 
