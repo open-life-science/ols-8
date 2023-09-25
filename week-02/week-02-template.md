@@ -15,9 +15,9 @@
 
 
 
-## Join OLS-7 Cohort Room
+## Join OLS-8 Cohort Room
 
-    
+
 
 **Join the Zoom call:  **[https://us02web.zoom.us/j/83263621055?pwd=Z2RZZWN6WjFaU1hySktxeVdRQ1ZCQT09](https://us02web.zoom.us/j/83263621055?pwd=Z2RZZWN6WjFaU1hySktxeVdRQ1ZCQT09)
 
@@ -134,18 +134,18 @@ Host: HOST (10 min) [⏰ 30]
 
 
 
-Presenter:
+**Presenter**: PRESENTER
 
    * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vSppfTwD16P5ilQYB6jnthyumfvM4mNuumHgy6NFuJHWIarRF-locPwZoJVO7H5DbzWdU30KhMh0gm4/pub](https://docs.google.com/presentation/d/e/2PACX-1vSppfTwD16P5ilQYB6jnthyumfvM4mNuumHgy6NFuJHWIarRF-locPwZoJVO7H5DbzWdU30KhMh0gm4/pub)
 
 
-Notes:
+**Notes:**
 
    *  
    *  
 
 
-Questions
+**Questions**
 
    *  
    *  
@@ -153,9 +153,9 @@ Questions
 
 ## 👥 Open Leadership and Open Science 👥
 
-[HOST] introduces, [HOST] makes breakouts (15 minutes) [⏰ 45]
+[HOST] introduces, [HOST] makes breakouts (15 min) [⏰ 45]
 
-Break-out room (10 minutes, ~3 ppl per room)
+Break-out room (10 min, ~3 ppl per room)
 
 
 
@@ -204,22 +204,22 @@ Breakout Room 2 - Written/Spoken
    *  
 ## 🖥 Tooling for Project Design
 
-Host: HOST (5 minutes) [⏰ 50]
+Host: HOST (5 min) [⏰ 50]
 
 
 
-Presenter:
+**Presenter**: PRESENTER
 
    * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vT-icafDLq0mDuOlniwWaCj5pv-RM5duDAs-cgiWSxoYmh\_sz9VqCq\_ijIAa\_uHqMYqqgPnHPBmY7LO/pub#slide=id.g21d0ef90081\_0\_0](https://docs.google.com/presentation/d/e/2PACX-1vT-icafDLq0mDuOlniwWaCj5pv-RM5duDAs-cgiWSxoYmh\_sz9VqCq\_ijIAa\_uHqMYqqgPnHPBmY7LO/pub#slide=id.g21d0ef90081\_0\_0)
 
 
-Notes:
+**Notes**:
 
    *  
    *  
 
 
-Questions
+**Questions**
 
    *  
    *  
@@ -227,22 +227,22 @@ Questions
 
 ## 🖥 Introducing Open Canvas
 
-Host: HOST (10 minutes + 5 for questions) [⏰ 65]
+Host: HOST (10 min + 5 min for questions) [⏰ 65]
 
 
 
-Presenter:
+**Presenter**:
 
    * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQ2cXlk-3EGLFQph6qD8PN24\_nfCaCwij69CAd2GZ5PzgAZ1AEuNQE\_m1w9DyAbrONwXrsOYZmKOA5T/pub](https://docs.google.com/presentation/d/e/2PACX-1vQ2cXlk-3EGLFQph6qD8PN24\_nfCaCwij69CAd2GZ5PzgAZ1AEuNQE\_m1w9DyAbrONwXrsOYZmKOA5T/pub)
 
 
-Notes:
+**Notes**:
 
    *  
    *  
 
 
-Questions
+**Questions**
 
    *  
    *  
@@ -252,9 +252,9 @@ Questions
 
 ## 👥 Share your project mission/vision 👥
 
-[HOST] introduces, [HOST] makes breakouts (5 minutes) [⏰ 85]
+[HOST] introduces, [HOST] makes breakouts (5 min) [⏰ 85]
 
-5 mins, 2ppl/room
+5 min, 2ppl/room
 
 
 
@@ -272,22 +272,22 @@ Questions
 
 ## 🖥 Introducing Project Roadmapping
 
-Host: HOST (10 minutes + 5 for questions) [⏰ 80]
+Host: HOST (10 min + 5 min for questions) [⏰ 80]
 
 
 
-Presenter:
+**Presenter**: PRESENTER
 
    * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vRME4NPdc7Tx528-p3Veo8wN5galMpVK0PhY7v4IpHXbBQQFmBpyjmSMOoXwAqr5Fyo27mbzC2IaTQL/pub](https://docs.google.com/presentation/d/e/2PACX-1vRME4NPdc7Tx528-p3Veo8wN5galMpVK0PhY7v4IpHXbBQQFmBpyjmSMOoXwAqr5Fyo27mbzC2IaTQL/pub)
 
 
-Notes:
+**Notes**:
 
    *  
    *  
 
 
-Questions
+**Questions**
 
    *  
    *  
@@ -320,6 +320,8 @@ Host:  (5 min) [⏰ 90]
    1. 📝 **Start working on your Open Canvas: **Template, instruction and example [https://docs.google.com/presentation/d/1nUD0jdZsr16PVfDfejXjKuMdZGeX18i6-tDdpzzeGwY/edit?usp=drive\_link](https://docs.google.com/presentation/d/1nUD0jdZsr16PVfDfejXjKuMdZGeX18i6-tDdpzzeGwY/edit?usp=drive\_link)
        1. **Share the image/link on your GitHub** issue and look up at least two other projects in the issues and comment on their issues with feedback on their vision statement.
    1. 🛣 **Start your Roadmap** and comment on your issue with your draft Roadmap: [https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/Q\&A](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/Q\&A) for after the call
+
+
 
 
 ### Have any questions? 
@@ -358,6 +360,6 @@ What surprised you?
 
 
 
-Référence : Mozilla Open leadership Framework, Open Life Science
+**Reference** : Mozilla Open leadership Framework, Open Life Science
 
-Licence : CC BY 4.0, Open Life Science (OLS-8), 2023
+**Licence** : CC BY 4.0, Open Life Science (OLS-8), 2023
