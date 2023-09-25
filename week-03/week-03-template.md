@@ -5,11 +5,11 @@
 
 **Date** : 4 October 2023
 
-**Time**: 4pm UTC 
+**Time: **4pm UTC 
 
 **Duration**: 90 minutes
 
-**Call lead**: Malvika Sharan
+**Call lead: **Malvika Sharan
 
 **Facilitator**: 
 
@@ -86,7 +86,7 @@ Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
 ## 🗣️ Welcome!
 
-[Bérénice] (5 min) [⏰ 30]
+Host: HOST (5 min) [⏰ 30]
 
 
 
@@ -134,7 +134,7 @@ Host: HOST (10 min) [⏰ 30]
 
 
 
-Presenter:
+Presenter: 
 
    * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vSppfTwD16P5ilQYB6jnthyumfvM4mNuumHgy6NFuJHWIarRF-locPwZoJVO7H5DbzWdU30KhMh0gm4/pub](https://docs.google.com/presentation/d/e/2PACX-1vSppfTwD16P5ilQYB6jnthyumfvM4mNuumHgy6NFuJHWIarRF-locPwZoJVO7H5DbzWdU30KhMh0gm4/pub)
 
@@ -233,7 +233,7 @@ Host: HOST (10 minutes + 5 for questions) [⏰ 65]
 
 Presenter:
 
-   * Slides: 
+   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQ2cXlk-3EGLFQph6qD8PN24\_nfCaCwij69CAd2GZ5PzgAZ1AEuNQE\_m1w9DyAbrONwXrsOYZmKOA5T/pub](https://docs.google.com/presentation/d/e/2PACX-1vQ2cXlk-3EGLFQph6qD8PN24\_nfCaCwij69CAd2GZ5PzgAZ1AEuNQE\_m1w9DyAbrONwXrsOYZmKOA5T/pub)
 
 
 Notes:
@@ -278,7 +278,7 @@ Host: HOST (10 minutes + 5 for questions) [⏰ 80]
 
 Presenter:
 
-   * Slides:
+   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vRME4NPdc7Tx528-p3Veo8wN5galMpVK0PhY7v4IpHXbBQQFmBpyjmSMOoXwAqr5Fyo27mbzC2IaTQL/pub](https://docs.google.com/presentation/d/e/2PACX-1vRME4NPdc7Tx528-p3Veo8wN5galMpVK0PhY7v4IpHXbBQQFmBpyjmSMOoXwAqr5Fyo27mbzC2IaTQL/pub)
 
 
 Notes:
