@@ -1,12 +1,15 @@
+
+
+
 # Week 02 - Welcome to Open Seeds OLS-8!
 
 **Date** : 26 September 2023
 
-**Time**: 9am UTC 
+**Time: **9am UTC 
 
 **Duration**: 90 minutes
 
-**Call lead**: Bérénice Batut
+**Call lead: **Bérénice Batut
 
 **Facilitator**: Umar Farouk
 
@@ -16,11 +19,11 @@
 
     
 
-**Join the Zoom call**:  [https://us02web.zoom.us/j/83263621055?pwd=Z2RZZWN6WjFaU1hySktxeVdRQ1ZCQT09](https://us02web.zoom.us/j/83263621055?pwd=Z2RZZWN6WjFaU1hySktxeVdRQ1ZCQT09)
+**Join the Zoom call:  **[https://us02web.zoom.us/j/83263621055?pwd=Z2RZZWN6WjFaU1hySktxeVdRQ1ZCQT09](https://us02web.zoom.us/j/83263621055?pwd=Z2RZZWN6WjFaU1hySktxeVdRQ1ZCQT09)
 
 
 
-**Are you an OLS-8 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-8 playlist):** [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
+**Are you an OLS-8 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-8 playlist): **[https://www.youtube.com/c/OpenLifeSci/playlists](**https://www.youtube.com/c/OpenLifeSci/playlists**)
 
 
 
@@ -230,7 +233,7 @@ Host: HOST (10 minutes + 5 for questions) [⏰ 65]
 
 Presenter:
 
-   * Slides: 
+   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQ2cXlk-3EGLFQph6qD8PN24\_nfCaCwij69CAd2GZ5PzgAZ1AEuNQE\_m1w9DyAbrONwXrsOYZmKOA5T/pub](https://docs.google.com/presentation/d/e/2PACX-1vQ2cXlk-3EGLFQph6qD8PN24\_nfCaCwij69CAd2GZ5PzgAZ1AEuNQE\_m1w9DyAbrONwXrsOYZmKOA5T/pub)
 
 
 Notes:
@@ -275,7 +278,7 @@ Host: HOST (10 minutes + 5 for questions) [⏰ 80]
 
 Presenter:
 
-   * Slides:
+   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vRME4NPdc7Tx528-p3Veo8wN5galMpVK0PhY7v4IpHXbBQQFmBpyjmSMOoXwAqr5Fyo27mbzC2IaTQL/pub](https://docs.google.com/presentation/d/e/2PACX-1vRME4NPdc7Tx528-p3Veo8wN5galMpVK0PhY7v4IpHXbBQQFmBpyjmSMOoXwAqr5Fyo27mbzC2IaTQL/pub)
 
 
 Notes:
