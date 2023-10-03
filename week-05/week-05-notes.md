@@ -55,7 +55,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 
 * Name 1 / Nina / I saw a tree fully uccupied with young starlings learning how to sing the most beautiful songs. 
 
-* Name 2 / 
+* Name 2 / Bérénice
 
 * Name 4 / Malvika / I have a blomming violet hydrangea on my table and it smells amazing.
 
