@@ -54,7 +54,7 @@
 
 Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
-   *  
+   *  Marlou Ramaekers / Make CSR data publicly available / marlouramaekers / ✨
    *  
    *  
    * 
