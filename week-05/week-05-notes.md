@@ -54,7 +54,7 @@
 
 Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
-   *  
+   *  Yan-Kay Ho / Reclone Community "Building a Searchable Open Data Repository of DNA Collection" / @Just_YanKay | github.com/ykho001 / 
    *  
    *  
    * 
