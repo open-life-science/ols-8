@@ -1,328 +1,282 @@
-
 # Week 06 - Open Science Garden I
 
-**Date**: 4 April 2023
+**Date**: October 24, 2023
 
-**Time**: 9:00 - 10:30 UTC (see in your time zone: [https://www.timeanddate.com/worldclock/meeting.html)](https://www.timeanddate.com/worldclock/meeting.html))
+**Time**: 09:00 UTC
 
-**Duration**: 90 minutes
+**Duration**: 90 min
 
-**Hosts**: Bérénice, Jafsia
+**Call lead**: Tajuddeen Gwadabe
 
-**Syllabus**: [https://openlifesci.org/ols-7/schedule/#week-06](https://openlifesci.org/ols-7/schedule/#week-06)
-
-
-## **Join OLS-7 Cohort Room**
-
-   * [https://us02web.zoom.us/j/83789414238?pwd=TmxhTnYxcjdEdmFFUEY2R253V3lRUT09](https://us02web.zoom.us/j/83789414238?pwd=TmxhTnYxcjdEdmFFUEY2R253V3lRUT09)
-   * Meeting ID: 837 8941 4238
-   * Passcode: 106261
+**Facilitator**: 
 
 
-## During this week’s cohort call, we will:
+## Join the Cohort Room
 
-   * Learn about Open Science
-   * Describe the different principles of Open science
-   * Hear about use-cases of
-       * Open engagement of social actors
-       * Open science infrastructures
-       * Open evaluation 
+**Join the Zoom call**:
 
 
-## Before this meeting (if you can)
+**Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube**: [https://www.youtube.com/c/OpenLifeSci/playlists](**https://www.youtube.com/c/OpenLifeSci/playlists**)
 
-   * Look up two other projects and comment on their issues with feedback on their Open Canvas and README
-       * OLS-7 issues: [https://github.com/open-life-science/ols-7/issues](https://github.com/open-life-science/ols-7/issues)
-   * Create a GitHub/online repository for your project
-   * Using your canvas, vision and roadmap - start writing a README, or landing (web)page, for your project
-   * Select an open license to your repository as a file called LICENSE.md
-       * More on open licenses: [https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/)
+
+**This call is being recorded and transcribed!**
+
+   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))](https://www.youtube.com/c/OpenLifeSci))) in the next days
+   * Turn on your webcam if you don't mind sharing your face (or off if you do!)
+
+
+**Breakout room**: Speaking and Writing:
+
+   * Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name:
+      * W for written reflection-based exercise in the main room
+      * S for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice
+   * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
+
+
+## During this week's cohort call, we will:
+
+
+   - Define Open Science and Responsible Research
+   - List the different principles of Open Science
+   - Give examples of 3 use cases of the different Open Science principles
 
 
 ## 🌍 Roll call
 
-**Name / Project / Social handles (Twitter, GitHub, etc.) / Emoji mood**
+
+### Introducing yourself
+
+Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
    *  
    *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
+
 
 ### Icebreaker question
 
-What is your recent favorite tool or app or software?
+*What is your recent favorite tool or app or software?*
 
    *  
    *  
-   *  
-   *  
-   *  
 
 
-## 🗣️Welcome!
+## 🖥 Open Science Garden(s)!
 
-HOST (⏰ 2 mins)
+[HOST] (5 min)[⏰ 5]
 
-   * Reminder: Code of conduct \& community participation guidelines: [https://openlifesci.org/code-of-conduct](https://openlifesci.org/code-of-conduct)
-   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Emmy and Yo. (team@openlifesci.org).
-       * To report an issue involving one of the organisers, please email one of the members individually (berenice@openlifesci.org, malvika@openlifesci.org, emmy@openlifesci.org, yo@openlifesci.org).
-   * Otter.ai transcript to follow along by clicking on "live on otter.ai" on top right of your screen or see here:
-   * Please **edit your Zoom name** (click on the three dots on the top right of your video) and add one of the following letters in front of your name.
-       * ***W*** for written reflection-based exercise in the main room
-       * ***S*** for Spoken Discussion Breakout Room/ This will help us assign you to the breakout room with the format of your choice
+**Presenter**: PRESENTER
 
+   * Contact / social: 
+   * Slides: https://docs.google.com/presentation/d/e/2PACX-1vTCjL3-TcltgCN9RcRvooI-wUViuSFgtfm0pnXNGer5K7APtZKdtN4ITy8HdZkJBEcRzQFhOmmnH-23/pub
 
-## 🖥 Open Science
-
-Host: HOST (10 min) [⏰ 15]
-
-Presenter: Bérénice Batut
-
-   * Slides: https://docs.google.com/presentation/d/1eKRgozsGmJvjPELyP4KMgrgHchp7o58YowC5RkgLNd4/edit?usp=sharing
-
-Notes:
-
-   * Open science has many aspects, so we’ll be covering this over three separate cohort calls:
-       * Week 06: 04.04.2023 <--- This week
-       * Week 10: 02.05.2023
-       * Week 12: 17.05.2023
-   
-
-
-Questions:
-
-   * 
-
-
-
-## ✏️ Silent reflections: Open Science and You
-
-Host: HOST (10 min) [⏰ 25]
-
-Questions:
-
-   * Which Open Science principles did you already **know** before today?
-   
-       *  
-       *  
-       *  
-       
-   * Which Open Science principles did you already **apply** before today?
-   
-       *  
-       *  
-       *  
-
-## 💻 Open evaluation: <Title>
-
-Host: HOST (10 minutes + 5 for questions) [⏰ 40]
-
-Guest speaker: Olexandr Konovalov
-
-   * <Contact / social>
-   * Slides: <LINK>
-
-Notes:
+**Notes**:
 
    *  
    *  
-   * 
 
-Questions: 
+**Questions**
 
-   *  
-   *  
-   * 
-
-## 💻 Open engagement of social actors: <Title>
-
-Host: HOST (10 minutes + 5 for questions) [⏰ 55]
-
-Guest speaker: Umar Farouk
-
-   * <Contact / social>
-   * Slides: <LINK>
-
-
-Notes:
-
-   *  
-   *  
-   * 
-
-Questions: 
-
-   *  
    *  
    *  
 
 
-## 👥 Breakout discussion: Open Research?
+## 🖥 Open Science Introduction!
 
-[HOST] introduces, [HOST] makes breakouts (15 minutes) [⏰ 70]
+[HOST] (10 min)[⏰ 15]
 
-15 minutes, ~3-4/room: we will have some written discussion and some spoken discussion room
+**Presenter**: PRESENTER
 
-#### Discussion prompts for the room:
+   * Contact / social: 
+   * Slides: https://docs.google.com/presentation/d/e/2PACX-1vTfp4FBmrsu0Hb5H-w2Howm2QNVbEaTQGVo9h-dQcgFNT-TN30Pm_S3kv6JARcdhPp1JkN0go_ulIGP/pub
 
-   * Do you think scientific research is open?
-   * If yes,
-       * How is it open?
-       * Why do you call it open?
-   * If you wouldn’t call it open,
-       * Why not?
-       * Can we then call it “closed” science? 
-       * If applicable, include a comment on who is inside that closeted science and who is out, or who belongs and who doesn’t
-           * Think of what group you belong to. 
+**Notes**:
 
-**Breakout room reminder**: If you need assistance in your breakout room, please click the ’ Ask for Help’ button at the bottom of your screen
+   *  
+   *  
 
-#### **Notes from breakout discussions**
+**Questions**
+
+   *  
+   *  
+
+
+## 👥 Open Science and You!
+
+### Questions
+
+
+Which Open Science principles did you already know before today?
+
+   *  
+   *  
+
+
+Which Open Science principles did you already apply before today?
+
+   *  
+   *  
+
+
+## 🖥 Open Data!
+
+[HOST] (15 min)[⏰ 35]
+
+**Presenter**: Sarah Lippincott
+
+   * Contact / social: 
+   * Slides: SLIDES
+
+**Notes**:
+
+   *  
+   *  
+
+**Questions**
+
+   *  
+   *  
+
+
+## 🖥 Openness to Diversity of Knowledge!
+
+[HOST] (15 min)[⏰ 50]
+
+**Presenter**: Miguel Silan
+
+   * Contact / social: 
+   * Slides: SLIDES
+
+**Notes**:
+
+   *  
+   *  
+
+**Questions**
+
+   *  
+   *  
+
+
+## 👥 Open Research?!
+
+[HOST] introduces, [HOST] makes breakouts (15 min) [⏰ 65]
+
+15 minutes, ~3/4 ppl per room
+
+### Instructions for the room
+
+
+Discussion prompts for the room:
+   - Do you think scientific research is open?
+   - If yes,
+      - How is it open?
+      - Why do you call it open?
+   - If you wouldn’t call it open,
+      - Why not?
+      - Can we then call it “closed” science?
+      - If applicable, include a comment on who is inside that closeted science and who is out, or who belongs and who doesn’t
+         - Think of what group you belong to.
+
+
+### Notes from breakout discussions
+
 
 Breakout Room 1 - Written/Spoken
 
    * Names
-   
-       *  
-       
+
+      *  
+      *  
+
    * Notes
-   
-       * 
+
+      *  
+      *  
 
 Breakout Room 2 - Written/Spoken
 
    * Names
-   
-       *  
-   
+
+      *  
+      *  
+
    * Notes
-   
-       * 
-       
 
-Breakout Room 3 - Written/Spoken
-
-   * Names
-   
-       *  
-       
-   * Notes
-   
-       * 
-
-Breakout Room 4 - Written/Spoken
-
-   * Names
-   
-       *  
-       
-   * Notes
-   
-       * 
+      *  
+      *  
 
 
-**Any insights/thoughts/comments to share from your breakout room?**
-
-   * 
-   * 
-   * 
-   * 
-   * 
-   * 
-   * 
-   * 
-
-
-## 💻 Open science infrastructures: <Title>
-
-Host: HOST (10 minutes + 5 for questions) [⏰ 85]
-
-Guest speaker: Owen Iyoha
-
-   * <Contact / social>
-   * Slides: <LINK>
-
-
-Notes:
+### **Any insights/thoughts/comments to share from your breakout room?**
 
    *  
    *  
-   * 
 
-Questions: 
+
+## 🖥 !
+
+[HOST] (10 min)[⏰ 75]
+
+**Presenter**: PRESENTER
+
+   * Contact / social: 
+   * Slides: SLIDES
+
+**Notes**:
 
    *  
+   *  
+
+**Questions**
+
    *  
    *  
 
 
-## 🗣️ Closing 
+## 🗣️ Closing
 
-Host:  (⏰ 5 minutes) 90
+[HOST] (5 min) [⏰ 90]
 
-Open Science elements
+### Assignments
 
-   * Open source software <-- Week 10
-   * Open data <-- Week 12
-   * Open access publication <-- Week 12
-   * Open educational resources <-- Week 12
-   * Open science infrastructures <-- **This week**
-   * Open engagement of social actors <-- **This week**
-   * Open evaluation <-- **This week**
-   * Open hardware <-- Week 10
-   * Openness to diversity of knowledge <-- Week 10 
+   - Check the GitHub Intro notes, learning resource and video from last week
+      - Notes (with links to learning resource): https://bit.ly/ols-8-week-05
+      - Video: 
+   - Prepare to share your project online through Git Pages,  Google Site, Wordpress or other option. ← long term assignment, do it in your own pace.
 
+### Have any questions? 
 
-Assignments
+Add them below. We will respond to these on Slack and also share them via an email
 
-   * Check the GitHub Intro notes, learning resource and video from last week
-   
-       * Notes (with links to learning resource): [https://bit.ly/ols-7-week-05](https://bit.ly/ols-7-week-05)
-       * Video: https://youtu.be/hXRw33CbDJk
-       
-   * Prepare to share your project online through Git Pages, Google Site, Wordpress or other option. ← long term assignment, do it in your own pace.
+   *  
+   *  
 
-Next weeks:
-
-   * Week 7: Attend your Mentor-mentee call
-   * Week 8: Cohort call - We will discuss community design for inclusivity 🏡: [https://openlifesci.org/ols-7/schedule/#week-08Open](https://openlifesci.org/ols-7/schedule/#week-08Open)
-
-
-### Q\&A for after the call 
-
-Response will be shared through notes
-
-   * 
-
-
-### Feedback
+### Feedback about this call:
 
 What worked?
 
    *  
    *  
 
-What didn’t work?
+
+What didn't work?
 
    *  
    *  
+
 
 What would you change?
 
    *  
    *  
-   
+
+
 What surprised you?
 
    *  
-   * 
-   * 
+   *  
 
 
-*Reference: Mozilla Open Leaders, Open Life Science *
+**Reference**: Mozilla Open leadership Framework, Open Life Science
 
-*License: CC BY 4.0, Open Life Science (OLS-7), 2022*
+**Licence**: CC BY 4.0, Open Life Science (OLS), 2023
+
