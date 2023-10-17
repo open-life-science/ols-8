@@ -1,277 +1,333 @@
+# Week 04 - Tooling for Open Collaboration
 
-# Week 4 - Welcome to OLS - 7
+**Date**: October 11, 2023
 
-*Semaine 04 - Bienvenue à OLS-7 !*
-*Ceci est un autre appel d'intégration (identique à la semaine 2) mais dans un fuseau horaire différent pour les personnes qui n'ont pas pu nous rejoindre la semaine 2.*
+**Time**: 16:00 UTC
 
-* Date : 15 mars 2023
-* Time/Heure : 17:00 - 18:30 UTC - voir dans votre fuseau horaire : [https://arewemeetingyet.com/Berlin/2023-03-15/18:00/week-03](https://arewemeetingyet.com/Berlin/2023-03-15/18:00/week-03) 
-* Duration/Durée : 90 minutes
-* Hosts/Hôtes : Yo, Paz, Melissa, 
-* Programme : [https://openlifesci.org/ols-7/schedule/#week-03](https://openlifesci.org/ols-7/schedule/#week-03) 
+**Duration**: 90 min
 
-**Join the OLS-7 cohort call/Rejoignez la salle de cohorte OLS-7:**
+**Call lead**: Malvika Sharan
 
-* Joining ID/ID de réunion:
-* Passcode /Code d'accès:
+**Facilitator**: 
 
-Are you an OLS-7 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-7 playlist): [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
 
-*Êtes-vous un participant OLS-7 mais ne pouvez pas participer à cet appel ? L'enregistrement de cet appel sera mis à jour sur YouTube (playlist OLS-7) : *[https://www.youtube.com/c/OpenLifeSci/playlists](*https://www.youtube.com/c/OpenLifeSci/playlists*)
+## Join the Cohort Room
 
-**Join the call**
+**Join the Zoom call**:
 
-* Please note that this call will be recorded
-   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci)](https://www.youtube.com/c/OpenLifeSci)) in the next days
-   * Turn on your webcam if you don’t mind sharing your face (or off if you do!)
+
+**Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube**: [https://www.youtube.com/c/OpenLifeSci/playlists](**https://www.youtube.com/c/OpenLifeSci/playlists**)
+
+
+**This call is being recorded and transcribed!**
+
+   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))](https://www.youtube.com/c/OpenLifeSci))) in the next days
+   * Turn on your webcam if you don't mind sharing your face (or off if you do!)
+
+
+**Breakout room**: Speaking and Writing:
+
    * Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name:
-       * W for written reflection-based exercise in the main room
-       * S for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice
+      * W for written reflection-based exercise in the main room
+      * S for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice
    * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
 
-***Rejoignez l'appel***
 
-   * *Veuillez noter que cet appel sera enregistré*
-   * *La vidéo sera disponible sur la chaîne YouTube ( *[https://www.youtube.com/c/OpenLifeSci)](*https://www.youtube.com/c/OpenLifeSci)*)* dans les prochains jours*
-   * *Allumez votre webcam si cela ne vous dérange pas de partager votre visage (ou éteignez-la si vous le faites !)*
-   * *Veuillez modifier votre nom Zoom (cliquez sur les trois points en haut à droite de votre vidéo) et ajoutez l'une des lettres suivantes devant votre nom :*
-   * *W pour exercice de réflexion écrite en salle principale*
-   * *S pour Spoken Discussion Breakout Room Cela nous aidera à vous affecter à la salle de discussion avec le format de votre choix*
+## During this week's cohort call, we will:
 
-## During this week’s cohort call, we will:
 
-* Look at project structure as we build open projects
-* Go over the standard files in open projects
-* README & CONTRIBUTING.md
-* LICENSE
-* CODE_OF_CONDUCT.md
+   * Identify essential files to add in a collaborative project
+   * Explain why you need to select a license for an open project
+   * Select the best license for your project
+   * Write a clean and welcoming README file
+   * Discuss about Code of Conduct
 
-(Note: The exact project structure and files used may look different on your project). 
 
-## Before this meeting (if you can)
+## 🌍 Roll call
 
-* Look up two other projects and comment on their OLS-7 GitHub issues with feedback on their open canvas: [https://github.com/open-life-science/ols-7/issues](https://github.com/open-life-science/ols-7/issues)
-   * Work on your vision statement
-   * Write your vision
-   * Refine your vision with the editor’s help
-   * Paste it in your GitHub issue
-   * Read your project vision to those in your Breakout room and hear their feedback :)
-   * One tool to write your vision is the Hemingway Editor: [http://www.hemingwayapp.com/]([]http://www.hemingwayapp.com/[])[] []and another option is [https://splasho.com/upgoer5/](https://splasho.com/upgoer5/)
+### Introducing yourself
 
-Other resources: Opening Your Project:[] [][https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/]([]https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/[])
+Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
-## Roll call
+   *  
+   *  
 
-*Name / Project / social handles (twitter, GitHub, etc.)*
- 
-*
-*
-*
-*
 
-**Icebreaker question**
+### Icebreaker question
 
-*How have your first few weeks in OLS-7 been? - share links to a picture, a word, a gif to express how you are feeling about your role as a project lead and/or team member*
+*How have your first few weeks in OLS-8 been? Share links to a picture, a word, a gif to express how you are feeling about your role as a project lead and/or team member*
 
-*
-*
-*
-*
+   *  
+   *  
 
-## 🗣️ Welcome! 
 
-[Hosts] (⏰ 2 min) 
+## 🗣️ Welcome!
 
-* Reminder: [Code of conduct & community participation guidelines](https://openlifesci.org/code-of-conduct)
-   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Paz, Malvika, Emmy and Yo ([]team@openlifesci.org[]).
-   * To report an issue involving one of the organisers, please email one of the members individually (berenice@openlifesci.org, malvika@openlifesci.org, yo@openlifesci.org, emmy@openlifesci.org, paz@openlifesci.org).
-   * Otter.ai transcript to follow along by clicking on "live on otter.ai" on top right of your screen, or here: [https://otter.ai/u/GnJ7lBTmVKDz1MWgO1HETZlpiVM](https://otter.ai/u/GnJ7lBTmVKDz1MWgO1HETZlpiVM)
+[HOST] (10 min)[⏰ 10]
 
-* Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name.
-   * W for written reflection-based exercise in the main room
-   * S for Spoken Discussion Breakout Room/ This will help us assign you to the breakout room with the format of your choice 
 
-* 🥁 Cohort name? What are the current options?: [https://poll.ly/DEQ31dfKn9D5Wt0n6ZwL](https://poll.ly/DEQ31dfKn9D5Wt0n6ZwL)
+**Code of conduct and community participation guidelines** [https://openlifesci.org/code-of-conduct](https://openlifesci.org/code-of-conduct)
 
-[Hosts] (⏰ 3 min)
+   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo, Paz and Emmy. (team@openlifesci.org).
+   * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, emmy@we-are-ols.org, paz@we-are-ols.org).
 
-Anyone new this week? What’s your name, location, project name \& most recent hobby?
-*
-*
-*
 
-[Hosts] (⏰ 10 min) 20
+**This call is being recorded and transcribed!**
 
-👥 Break-out room (10 minutes, ~3 ppl per room) - Choose one of the following: 
+   * Please turn your video off if you would prefer to be off video
+   * You can follow the transcriptions following the link on the top of the Zoom screen
 
-* Think of a time you were collaborating or working on an open project and it was a complete trainwreck. What happened? What made it chaotic?
-* Think of a time you were collaborating or working on an open project and everything was perfect. What happened? What made it sublime?
 
-✏️ Insights/thoughts/comments to share from your breakout room? 
+**Breakout room**: Speaking and Writing:
 
-Written breakout 1
+   * Indicate by editing your name on Zoom and add 
+       * W for written reflection-based exercise in based breakout room
+       * S for Spoken Discussion Breakout Room 
+   * This will help us assign you to the breakout room with the format of your choice
+   * Even if you are ok with both, please choose one option for this call to help us assign you easily to one group.
 
-Members: 
 
-Notes:
-*
-*
-*
+### Anyone new this week? 
 
-Written breakout 2
+What’s your name, location, project name \& most recent hobby?
 
-Members: 
+   *  
+   *  
 
-Notes:
-*
-*
-*
+### 🥁 Cohort name? 
 
-Written breakout 3
+Current options: [https://poll.ly/pigwc3tueBKGSRZ0YZA8](https://poll.ly/pigwc3tueBKGSRZ0YZA8)
 
-Members: 
+   * Add any other idea
+   * Vote for your favorite(s)
 
-Notes:
-*
-*
-*
 
-## 🗣️ Project Structure 
+## 👥 Collaboration or work on an open project!
 
-[Hosts] (⏰ 2 min) 20
+[HOST] introduces, [HOST] makes breakouts (10 min) [⏰ 20]
 
-Here are four standard files in open projects: 
+10 minutes, ~3 ppl per room
 
-1. LICENSE
-1. README.md
-1. CONTRIBUTING.md
-1. CODE_OF_CONDUCT.md
+### Instructions for the room
 
-*We will go over each of these files and best practices for putting them together. Your project may not have this exact structure but should include this information.*
 
-## 🖥 README & Contributing
+Choose one of the following:
+   * Case 1: Think of a time you were collaborating or working on an open project and it was a **complete trainwreck**. 
+      * What happened? 
+      * What made it chaotic?
+   * Case 2: Think of a time you were collaborating or working on an open project and **everything was perfect**.    
+       * What happened? 
+      * What made it sublime?
 
-[Hosts]
-Presenter: NAME (⏰ 15min) 35
 
-[Slides](https://docs.google.com/presentation/d/1V2-6PbJiPOYGBGsHJbKj9Y49iPHsHnAIKnhCuV40U3I/edit#slide=id.g2224fafcba8\_0\_37)
+### Notes from breakout discussions
 
-Notes:
 
-*
-*
-* 
+Breakout Room 1 - Written/Spoken
 
-Questions / Comments (silent GDoc-ing and +1ing)
+   * Names
 
-* How important is to write a README? VERY Important! Think of it as a proposal without an exceutive summary or a publication without an abstract. It will be difficult to find your way around.
-*
-*
-* 
+      *  
+      *  
 
-## 🗣️ LICENCES
+   * Notes
 
-[Hosts]
+      *  
+      *  
 
-Presenter: Hao Ye  (⏰ 10min) 45
+Breakout Room 2 - Written/Spoken
 
-* [Slides](https://docs.google.com/presentation/d/1-Ns22S18\_eP6VvEwMx6Mxo5cukFYVSG8W6kaZctyWpc/edit?usp=sharing)
+   * Names
 
-*Resources*
+      *  
+      *  
 
-* Read more about [sharing your work in the open](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/)
-* Software licensing: [https://choosealicense.com/](https://choosealicense.com/), content: [https://creativecommons.org/](https://creativecommons.org/)
-  
-Questions / Comments / your own tips for picking a license?
+   * Notes
 
-*
-*
-* 
+      *  
+      *  
 
-## 🗣️ Codes of Conduct (CoC)
 
-[Host]
+### **Any insights/thoughts/comments to share from your breakout room?**
 
-🖥 Presenter: Andrea Sánchez (⏰ 10min) 70
+   *  
+   *  
 
-* Slides: [https://docs.google.com/presentation/d/14VJT3IpO0DP0aOaUEC6393AAddFSROzpJrX6H6Vy5D8/edit?usp=sharing](https://docs.google.com/presentation/d/14VJT3IpO0DP0aOaUEC6393AAddFSROzpJrX6H6Vy5D8/edit?usp=sharing)
 
-**Notes**
+## 🖥 Setting up a project!
 
-*
-*
-* 
+[HOST] (5 min)[⏰ 25]
 
-*Resources*
+**Presenter**: PRESENTER
 
-* Read more about [Codes of Conduct in Mozilla docs](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/]([]https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/)
-* Example CoCs:
-      * [Carpentries](https://docs.carpentries.org/topic\_folders/policies/code-of-conduct.html)
-      * [Open Life Sci](https://openlifesci.org/code-of-conduct)
-      * [eLife Innovation Sprint (online event)](https://sprint.elifesciences.org/code-of-conduct/)
-      * [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+   * Contact / social: 
+   * Slides: https://docs.google.com/presentation/d/e/2PACX-1vT6Xn-rv8tA_YttEhJoO_aqOx36REJVZ9l44Orz69sm8y1bxuiC-HLj41-e7QAAw-drhPmucehO-Clv/pub?start=false&loop=false&delayms=3000
 
-*Questions / Comments?*
+**Notes**:
 
-*
-*
-* 
+   *  
+   *  
 
-## 👥  Breakout Rooms 
+**Questions**
 
-[Hosts] (⏰ 5 minutes, ~3 ppl per room) 60
+   *  
+   *  
 
-* Read your vision statement: 
-* What do you think about this exercise?
 
-Any insights/thoughts/comments to share from your breakout room? 
+## 🖥 README!
 
-*
-*
-* 
+[HOST] (15 min)[⏰ 40]
 
-## 🗣️ Closing 
+**Presenter**: Mariana Meireles
 
-[Hosts] (⏰ 10 minutes) 85
+   * Contact / social: 
+   * Slides: SLIDES
+
+**Notes**:
+
+   *  
+   *  
+
+**Questions**
+
+   *  
+   *  
+
+
+## 🖥 Open Licensing!
+
+[HOST] (15 min)[⏰ 55]
+
+**Presenter**: PRESENTER
+
+   * Contact / social: 
+   * Slides: SLIDES
+
+**Notes**:
+
+   *  
+   *  
+
+**Questions**
+
+   *  
+   *  
+
+
+## 🖥 Code of Conduct!
+
+[HOST] (15 min)[⏰ 70]
+
+**Presenter**: Saskia Freytag
+
+   * Contact / social: 
+   * Slides: SLIDES
+
+**Notes**:
+
+   *  
+   *  
+
+**Questions**
+
+   *  
+   *  
+
+
+## 👥 Vision statement!
+
+[HOST] introduces, [HOST] makes breakouts (5 min) [⏰ 75]
+
+5 minutes, ~2 ppl per room
+
+### Instructions for the room
+
+
+   * Read your vision statement
+   * What do you think about this exercise?
+
+
+### Notes from breakout discussions
+
+
+Breakout Room 1 - Written/Spoken
+
+   * Names
+
+      *  
+      *  
+
+   * Notes
+
+      *  
+      *  
+
+Breakout Room 2 - Written/Spoken
+
+   * Names
+
+      *  
+      *  
+
+   * Notes
+
+      *  
+      *  
+
+
+### **Any insights/thoughts/comments to share from your breakout room?**
+
+   *  
+   *  
+
+
+## 🗣️ Closing
+
+[HOST] (5 min) [⏰ 90]
 
 ### Assignments
 
-* Create a GitHub repository for your project
-   * Add the link to your repository in your issue: [https://github.com/open-life-science/ols-7/issues](https://github.com/open-life-science/ols-7/issues)
-   * Use your canvas to start writing a README.md file, or landing page, for your project: [https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/)
-   * Link your README in a comment on the OLS-7 issue
-   * Add an open license to your repository as a file called LICENSE.md: [https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/)
-   * Add a Code of Conduct to your repository as a file called CODE_OF_CONDUCT.md: [https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/)
-   * Next week:
-     * Attend the []GitHub Intro[] skill-up session (for those who are new to GitHub): [https://openlifesci.org/ols-4/schedule/#week-05](https://openlifesci.org/ols-4/schedule/#week-05)
-     * Attend your Mentor-mentee call
+   * Create a GitHub repository for your project
+   * Add the link to your repository in your issue: https://github.com/open-life-science/ols-8/issues
+   * Use your canvas to start writing a README.md file, or landing page, for your project: https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/
+   * Link your README in a comment on the OLS-8 issue
+   * Add an open license to your repository as a file called LICENSE.md: https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/
+   * Add a Code of Conduct to your repository as a file called CODE OF CONDUCT.md: https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/
 
-### Q&A for after the call 
+### Have any questions? 
 
-Response will be shared through notes
-*
-*
+Add them below. We will respond to these on Slack and also share them via an email
 
-### Feedback
+   *  
+   *  
+
+### Feedback about this call:
 
 What worked?
 
    *  
    *  
-What didn’t work?
+
+
+What didn't work?
 
    *  
    *  
+
+
 What would you change?
 
    *  
    *  
+
+
 What surprised you?
 
    *  
    *  
-   * 
 
-*Reference: Mozilla Open Leaders, Open Life Science *
 
-*License: CC BY 4.0, Open Life Science (OLS-6), 2022*
+**Reference**: Mozilla Open leadership Framework, Open Life Science
+
+**Licence**: CC BY 4.0, Open Life Science (OLS), 2023
+
