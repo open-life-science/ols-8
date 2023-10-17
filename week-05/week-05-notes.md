@@ -62,7 +62,7 @@ Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 ### Icebreaker question
 
 *Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past…*
-
+Iris are in the garden
    *  
    *  
    *  
