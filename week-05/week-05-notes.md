@@ -54,7 +54,7 @@
 
 Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
-   *  
+   *  Jolien / Open source handbook infrastructure / 😃
    *  
    *  
    * 
