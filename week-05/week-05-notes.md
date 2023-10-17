@@ -54,7 +54,7 @@
 
 Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
-   *  
+   *  Derek Moore / Open Umbrella (https://weblearning.co.za/umbrella/)  / @Weblearning (https://social.ds106.us/@weblearning) / :-)
    *  
    *  
    * 
