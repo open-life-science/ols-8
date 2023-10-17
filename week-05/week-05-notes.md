@@ -54,7 +54,8 @@
 
 Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
-   *  
+   *  Nicolas Palopoli / MetaDocencia / @npalopoli / ![image](https://github.com/NPalopoli/ols-8/assets/1713937/d24c3c88-d4c6-4823-88f8-aa3f7ee94f3f)
+
    *  
    *  
    * 
