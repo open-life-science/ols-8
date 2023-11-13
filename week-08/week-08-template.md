@@ -1,380 +1,267 @@
+# Week 08 - Community Management Café I
 
-# Week 08 - Community design for Inclusivity
+**Date**: November 08, 2023
 
-Date: 19 April 2023
+**Time**: 17:00 UTC
 
-Time: 16:00-17:30 UTC (see in your time zone: [https://www.timeanddate.com/worldclock/meeting.html)](https://www.timeanddate.com/worldclock/meeting.html))
+**Duration**: 90 min
 
-Duration: 90 minutes
+**Call lead**: Yo Yehudi
 
-Hosts: Malvika
+**Facilitator**: 
 
-Syllabus: [https://openlifesci.org/ols-7/schedule/#week-08](https://openlifesci.org/ols-7/schedule/#week-08)
 
+## Join the Cohort Room
 
+**Join the Zoom call**:
 
-## Join OLS-7 Cohort Zoom
 
-   * Zoom Link: [https://us02web.zoom.us/j/83789414238?pwd=TmxhTnYxcjdEdmFFUEY2R253V3lRUT09](https://us02web.zoom.us/j/83789414238?pwd=TmxhTnYxcjdEdmFFUEY2R253V3lRUT09)
-       * Meeting ID: 837 8941 4238
-       * Passcode: 106261
-   * Please note that this call will be recorded. The video will be available on the YouTube channel in the next days: [https://www.youtube.com/openlifesci]([]https://www.youtube.com/openlifesci[])
-   * Turn on your webcam if you don’t mind sharing your face (or off if you do!)
-   * Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name. 
-       * W for written reflection-based exercise in the main room
-       * S for Spoken Discussion Breakout Room. This will help us assign you to the breakout room with the format of your choice
-   * Otter.ai transcript to follow along by clicking on "live on otter.ai" on top right of your screen.
+**Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube**: [https://www.youtube.com/c/OpenLifeSci/playlists](**https://www.youtube.com/c/OpenLifeSci/playlists**)
 
 
-## This week:
+**This call is being recorded and transcribed!**
 
-During this week’s cohort call, we will learn about:
+   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))](https://www.youtube.com/c/OpenLifeSci))) in the next days
+   * Turn on your webcam if you don't mind sharing your face (or off if you do!)
 
 
+**Breakout room**: Speaking and Writing:
 
-   * Community Engagement - Introducing Matrix/Mountain of Engagement
-   * Designing  for Inclusivity - Introducing Persona and Pathways
+   * Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name:
+      * W for written reflection-based exercise in the main room
+      * S for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice
+   * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
 
 
-**Icebreaker question**: What is the coolest, most mind blowing fact (nature/people/animal etc.) you know?
+## During this week's cohort call, we will:
 
-*Name / your response*
 
-   * 
+   - Considering different kinds of interactions for your community
+   - Use the Mountain of Engagement method to support participants through various levels of engagements
+   - Develop persona and pathways for your community for taking people's experiences and expectations in planning your projects
 
-   * 
 
-   * 
+## 🌍 Roll call
 
-   * 
 
-   * 
+### Introducing yourself
 
-   * 
+Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
-   * 
+   *  
+   *  
 
-   * 
 
-   * 
+### Icebreaker question
 
-   * 
+**
 
-   * 
+   *  
+   *  
 
-   * 
 
-   * 
+## 🖥 Community Design for Inclusivity!
 
-   * 
+[HOST] (15 min)[⏰ 15]
 
-   * 
+**Presenter**: PRESENTER
 
+   * Contact / social: 
+   * Slides: https://docs.google.com/presentation/d/e/2PACX-1vRLTEtATIrUcuxbjrPv3nBNNWqxPE4bX8U3n-bkIaNd2DxXsWWFXsdwzQyGsBurNXp9QAcT0yPA-ocv/pub
 
+**Notes**:
 
-## 🗣️Welcome!
+   *  
+   *  
 
-[Host] (⏰ 5 mins)
+**Questions**
 
+   *  
+   *  
 
 
-   * Reminder: Code of conduct \& community participation guidelines: [https://openlifesci.org/code-of-conduct]([]https://openlifesci.org/code-of-conduct[])
-   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Emmy and Yo. (team@openlifesci.org). 
-   * To report an issue involving one of the organisers, please email one of the members individually (paz@openlifesci.org, berenice@openlifesci.org, malvika@openlifesci.org, emmy@openlifesci.org, yo@openlifesci.org).
+## 🖥 Community Interactions!
 
+[HOST] (15 min)[⏰ 30]
 
-**Introduction to the topic**
+**Presenter**: Omotola Omotayo
 
-"*Open leaders design and build projects that empower others to collaborate within* inclusive *communities."*
+   * Contact / social: 
+   * Slides: SLIDES
 
+**Notes**:
 
+   *  
+   *  
 
-## Community Engagement
+**Questions**
 
-### *Introducing Matrix/Mountain of Engagement ⛰*
+   *  
+   *  
 
-[Host] (15mins + 10 for questions) [⏰ 30]
 
-   * Slides: [https://docs.google.com/presentation/d/1ZmgEnKaED\_4Nc9H\_UhXC1G3J61qOcjAcuN7Un\_RxxWo/edit#slide=id.gf6411d1bc9\_1\_1]([]https://docs.google.com/presentation/d/1ZmgEnKaED\_4Nc9H\_UhXC1G3J61qOcjAcuN7Un\_RxxWo/edit#slide=id.gf6411d1bc9\_1\_1[])
+## 🖥 Mountain of Engagement!
 
+[HOST] (15 min)[⏰ 45]
 
-Guest speaker: NAME
+**Presenter**: Stefanie Butland
 
-   * Slides: 
+   * Contact / social: 
+   * Slides: SLIDES
 
+**Notes**:
 
-**Notes: **
+   *  
+   *  
 
-   * 
+**Questions**
 
-   * 
+   *  
+   *  
 
-   * 
 
-**Questions: **
+## 👥 Value exchanges!
 
-   * 
+[HOST] introduces, [HOST] makes breakouts (15 min) [⏰ 60]
 
-   * 
+15 minutes, ~3 ppl per room
 
-   * 
+### Instructions for the room
 
-   * 
 
+Reflect on: What are you giving to your community, organization, or project? What is it giving back? If there are gaps, how might you close them?
 
+Prompts for discussion: 
+   - What kinds of things do you give to others in your open leadership practices?
+   - What kinds of things do you get back?
+   - Does the balance seem right to you, or are there adjustments you’d like to make?
 
-**👥 Breakout Discussion**
 
-[Host 1]  introduces, [Host 2]  sets-up (15 for breakout + 05 for shared insights) [⏰50]
+### Notes from breakout discussions
 
 
+Breakout Room 1 - Written/Spoken
 
-**Balance: *Value exchanges***
+   * Names
 
+      *  
+      *  
 
+   * Notes
 
-Reflect on:* What are you giving to your community, organization, or project? What is it giving back? If there are gaps, how might you close them?*
+      *  
+      *  
 
-Prompts for discussion: Choose 2-3 prompts.
+Breakout Room 2 - Written/Spoken
 
-   * What kinds of things do you give to others in your open leadership practices?
-   * What kinds of things do you get back?
-   * Does the balance seem right to you, or are there adjustments you’d like to make?
+   * Names
 
+      *  
+      *  
 
-Directions for written discussion rooms:
+   * Notes
 
-   * Each room will be assigned 3 members
-   * Please agree if you use either on this document or the Zoom chat
-   * each member will take 2.5 minutes to write down their response
-   * In the next 5 minutes they will read through and comment on each other’s notes either on this document or on Zoom chat
+      *  
+      *  
 
 
-Room 1: Written 
+### **Any insights/thoughts/comments to share from your breakout room?**
 
-   * Team member names:
-   * Notes:
-   * 
+   *  
+   *  
 
-   * 
 
-   * 
+## 🖥 Personas & Pathways!
 
+[HOST] (15 min)[⏰ 75]
 
+**Presenter**: Stephane Fadanka
 
-Room 2: Written 
+   * Contact / social: 
+   * Slides: SLIDES
 
-   * Team member names:
-   * Notes:
-   * 
+**Notes**:
 
-   * 
+   *  
+   *  
 
-   * 
+**Questions**
 
+   *  
+   *  
 
 
-Room 3: Written 
+## 👥 Silent reflections!
 
-   * Team member names:
-   * Notes:
-   * 
+### Questions
 
-   * 
 
-   * 
+What was insightful about thinking about persona and pathways for inclusion? 
 
+   *  
+   *  
 
 
-Room 4: Spoken 
+What pathways have you already created? What other personas and pathways you didn't consider for your project?
 
-   * Team member names:
-   * Notes:
-   * 
+   *  
+   *  
 
-   * 
 
-   * 
+What are you doing now to provide mentored support to contributors? 
 
+   *  
+   *  
 
 
-Room 5: Spoken
+What other ways you can create to center voices of marginalised groups?
 
-   * Team member names:
-   * Notes:
-   * 
+   *  
+   *  
 
-   * 
 
-   * 
+## 🗣️ Closing
 
+[HOST] (5 min) [⏰ 90]
 
+### Assignments
 
-Room 6: Spoken
 
-   * Team member names:
-   * Notes:
-   * 
 
-   * 
+### Have any questions? 
 
-   * 
+Add them below. We will respond to these on Slack and also share them via an email
 
+   *  
+   *  
 
-
-## Designing for Inclusivity 
-
-### *Introducing Persona and Pathways for community interactions and Mentored contributions*
-
-[Host] (15 mins + 10 for questions) [⏰ 75]
-
-
-
-   * Slides: [https://docs.google.com/presentation/d/1ZmgEnKaED\_4Nc9H\_UhXC1G3J61qOcjAcuN7Un\_RxxWo/edit#slide=id.gf6411d1bc9\_1\_1]([]https://docs.google.com/presentation/d/1ZmgEnKaED\_4Nc9H\_UhXC1G3J61qOcjAcuN7Un\_RxxWo/edit#slide=id.gf6411d1bc9\_1\_1[])[] <-- update[]
-
-
-Guest speaker: NAME
-
-   * Slides: 
-
-
-**Notes: **
-
-   * Mountain/Matrix of Engagement  is a methodology to understand what is happing in the community - what's the priority and how to improve it, especially how to value and support contributors.
-   * 
-
-   * 
-
-**Questions: **
-
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-
-
-**✍️ Silent Reflections**
-
-
-
-[Host] (8 mins for notetaking + 2 mins to share insights) [⏰ 85]
-
-
-
-Prompts: 
-
-   * What was insightful about thinking about persona and pathways for inclusion? 
-   * What pathways have you already created? What other personas and pathways you didn't consider for your project?
-   * What are you doing now to provide mentored support to contributors? What other ways you can create to center voices of marginalised groups?
-
-
-**Notes: **
-
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-
-
-**Shared insights: **
-
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-
-
-
-
-## 🗣️ Closing \& Assignments
-
-[Host]  5 minutes (⏰ 90 minutes)
-
-
-
-**Assignments: After this call**
-
-   * Personas \& pathways assignment: Content from Mozilla Open Leaders [https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/]([]https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/[]) and The Turing Way chapter [https://the-turing-way.netlify.app/project-design/persona.html]([]https://the-turing-way.netlify.app/project-design/persona.html[])
-   * Think through community interactions and build your mountain of engagement using this community engagement: [https://docs.google.com/document/d/1HleMOn2Vt5ollJZzKZsJr5jr2gxTwFxW\\_LcWF6gb08s/edit?usp=sharing]([]https://docs.google.com/document/d/1HleMOn2Vt5ollJZzKZsJr5jr2gxTwFxW\\_LcWF6gb08s/edit?usp=sharing[])
-   * Becoming aware of and deal with our unconscious bias: Guides and recommendations [https://docs.google.com/document/d/1VtJpkKw3MJjiQQVwG4BHcxciwGVhhqUqARJYt-wlLRQ?authuser=emmyftsang%40gmail.com\\&usp=drive\\_fs]([]https://docs.google.com/document/d/1VtJpkKw3MJjiQQVwG4BHcxciwGVhhqUqARJYt-wlLRQ?authuser=emmyftsang%40gmail.com\\&usp=drive\\_fs[])
-
-
-**Next weeks: Week 9**
-
-   * Attend your Mentor-mentee call
-   * Expert invitations if you haven't already!
-   * **Skill-up call: Open Leaders: Academia, industry and beyond! - *Panel with guest speakers from different career paths***
-   * Week 10: Cohort call - We will discuss Open Science II: Knowledge Dissemination 🏡: [https://openlifesci.org/ols-7/schedule/#week-09]([]https://openlifesci.org/ols-7/schedule/#week-09[])
-
-
-**Open Q \& A for the OLS team**
-
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-
-
-## Feedback
+### Feedback about this call:
 
 What worked?
 
-   * 
+   *  
+   *  
 
-   * 
 
-What didn’t work?
+What didn't work?
 
-   * 
+   *  
+   *  
 
-   * 
 
 What would you change?
 
-   * 
+   *  
+   *  
 
-   * 
 
 What surprised you?
 
-   * 
-
-   * 
-
+   *  
+   *  
 
 
-*Reference: Open leadership Framework, Mozilla Open Leaders 6 \& 7, Open Life Science,*
+**Reference**: Mozilla Open leadership Framework, Open Life Science
 
-*License: CC BY 4.0, Open Life Science (OLS-7), 2023*
-
-
-
+**Licence**: CC BY 4.0, Open Life Science (OLS), 2023
 
