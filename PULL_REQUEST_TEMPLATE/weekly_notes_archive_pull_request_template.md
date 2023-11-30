@@ -11,7 +11,6 @@ I have done as follows for week XX:
 
 ## PR Reviewer:
 
-1. [ ] Review the notes and make sure they are 
-2. [ ] Anonymised for call participants (not needed for hosts or speakers)
-3. [ ] In correct folder
+1. [ ] Review the notes and make sure they are anonymised for call participants (not needed for hosts or speakers)
+3. [ ] Add the notes in correct folder
 4. [ ] File name is in correct format
