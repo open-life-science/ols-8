@@ -31,16 +31,6 @@
 
 Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
--   Apologies from Derek Moore. Celebrating family Christmas on the 14th. Kids off to Australia
--   Virginia García Alonso / Red JICMar / @VA\_GarciaAlonso / 🧉
--   Monica Alonso / Metadocencia /@monicalonso2000
--   Diana Karan/Bionformatics Codeathon/github @dianakaran
--   Yan-Kay Ho / Reclone Community "Building a Searchable Open Data Repository of DNA Collection" / @Just\_YanKay \| github.com/ykho001 /
--   Jafsia elisee/Mboalab
--   Cibele Zolnier / Reclone Community "Building a Searchable Open Data Repository of DNA Collection"
--   Malvika Sharan
--   Meli / MetaDocencia cohortes / 🍰
--   PaulineGachanja
 
 ### Icebreaker question
 
@@ -186,9 +176,6 @@ Share with each other in breakout rooms - No need to share if would like to keep
 Breakout Room 1 - Spoken
 
 -   Names
-    -   Monica Alonso
-    -   Virginia Garcia Alonso
-    -   Gigi Kenneth
 -   Notes
     -   
 
